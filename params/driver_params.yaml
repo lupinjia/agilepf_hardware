@@ -1,0 +1,3 @@
+low_level_dt: 2000 # Timestep for low-level communication loop in microseconds (e.g., 2000 for 500Hz)
+lowcmd_topic: "rt/lowcmd"
+lowstate_topic: "rt/lowstate"
