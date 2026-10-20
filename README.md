@@ -35,7 +35,7 @@ This project is mainly for subscribing and publishing dds messages and transform
     mkdir build && cd build
     cmake ..
     make
-    make install
+    sudo make install
     ```
 
 3. Install libserial (`sudo apt install libserial-dev`), yaml-cpp (`sudo apt install libyaml-cpp-dev`) and PREEMPT_RT (google it)
